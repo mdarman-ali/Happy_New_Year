@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner-content{
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 808px;
+    background-position: 15% 75%;
+    background-size: cover;
+    padding: 50px 0px;
+    text-align: right;
+    justify-content: right;
+}
+.banner-title{
+    padding-top: 230px;
+    color:  #151414;
+    font-size: 65px;
+    font-weight: 700;
+    max-width: 525px;
+    max-height: 228px;
+    text-align: right;
+}
