@@ -44,3 +44,33 @@ body{
     font-size: 20px;
     font-weight: 600;
 }
+.container{
+    width: 100%;
+    max-width: 1440px;
+}
+.section-failure{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 200px auto;
+    padding: 0 230px;
+    gap: 50px;
+    
+}
+.section-failure-heading{
+    color: #151414;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.two{
+    text-align: left;
+
+}
+.list{
+    padding-left: 18px;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
